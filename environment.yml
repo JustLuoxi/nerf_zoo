@@ -1,4 +1,4 @@
-name: torch-ngp
+name: nerf-zoo
 channels:
   - pytorch
   - conda-forge
